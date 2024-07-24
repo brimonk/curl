@@ -248,7 +248,10 @@ test2100 \
 test2200 test2201 test2202 test2203 test2204 test2205 \
 \
 test2300 test2301 test2302 test2303 test2304 test2305 test2306 test2307 \
+<<<<<<< HEAD
 test2308 \
+=======
+>>>>>>> eeb9e7454 (websocket: add option to disable auto-pong reply)
 \
 test2400 test2401 test2402 test2403 test2404 test2405 test2406 \
 \
